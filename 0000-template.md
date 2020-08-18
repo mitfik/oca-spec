@@ -1,4 +1,4 @@
-# Title (Ex. 0000: RFC Topic)
+# Title (E.g. 0017: Comment Overlay)
 - Authors: [your name](you@github-email) -- email is optional
 - Status: [PROPOSED](/README.md#proposed)
 - Status Note: (explanation of current status)
